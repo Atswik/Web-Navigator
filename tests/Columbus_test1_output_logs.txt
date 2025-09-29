@@ -1,0 +1,320 @@
+Enter your navigation prompt (or 'exit' to quit): buy me the latest airpods pro
+
+User prompt: buy me the latest airpods pro
+
+Navigating to base URL: https://www.apple.com
+Analysing 238 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Similarity: 0.7404 - Element: {'type': 'link', 'label': 'Pre-order, AirPods Pro 3', 'href': '/us/shop/goto/buy_airpods/airpods_pro_3'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': '/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': '/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.7158 - Element: {'type': 'link', 'label': 'shop airpods', 'href': '/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.7101 - Element: {'type': 'link', 'label': 'airpods 4', 'href': '/airpods-4/'}
+Similarity: 0.6433 - Element: {'type': 'link', 'label': 'airpods support', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-prodfly'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6529 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Similarity: 0.6312 - Element: {'type': 'link', 'label': 'shop airpods', 'href': '/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.6194 - Element: {'type': 'link', 'label': 'Pre-order, AirPods Pro 3', 'href': '/us/shop/goto/buy_airpods/airpods_pro_3'}
+Similarity: 0.5926 - Element: {'type': 'link', 'label': 'airpods 4', 'href': '/airpods-4/'}
+Similarity: 0.5794 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Similarity: 0.5725 - Element: {'type': 'link', 'label': 'airpods', 'href': '/us/shop/goto/airpods/accessories'}
+Similarity: 0.5724 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.5500 - Element: {'type': 'link', 'label': 'airpods support', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-prodfly'}
+Similarity: 0.5370 - Element: {'type': 'link', 'label': 'AirPods', 'href': '/airpods/'}
+Similarity: 0.5370 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+
+Navigating to: https://www.apple.com/airpods-pro/ with similarity score: 0.6528916954994202
+Page title: AirPods Pro 3 - Apple
+Analysing 263 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Similarity: 0.7299 - Element: {'type': 'link', 'label': 'Watch the film, AirPods Pro 3', 'href': '/105/media/us/airpods-pro/2025/7acffb13-4adb-40b1-9393-8f1c99bc6c90/films/product/airpods-pro-product-tpl-us-2025_16x9.m3u8'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': '/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': '/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.7158 - Element: {'type': 'link', 'label': 'shop airpods', 'href': '/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.7124 - Element: {'type': 'link', 'label': 'Pre-order AirPods Pro 3', 'href': '/us/shop/goto/buy_airpods/airpods_pro_3'}
+Similarity: 0.7101 - Element: {'type': 'link', 'label': 'airpods 4', 'href': '/airpods-4/'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6313 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.6301 - Element: {'type': 'link', 'label': 'shop airpods', 'href': '/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.5926 - Element: {'type': 'link', 'label': 'Pre-order AirPods Pro 3', 'href': '/us/shop/goto/buy_airpods/airpods_pro_3'}
+Similarity: 0.5793 - Element: {'type': 'link', 'label': 'Watch the film, AirPods Pro 3', 'href': '/105/media/us/airpods-pro/2025/7acffb13-4adb-40b1-9393-8f1c99bc6c90/films/product/airpods-pro-product-tpl-us-2025_16x9.m3u8'}
+Similarity: 0.5725 - Element: {'type': 'link', 'label': 'AirPods', 'href': '/airpods/'}
+Similarity: 0.5725 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Similarity: 0.5371 - Element: {'type': 'link', 'label': 'airpods', 'href': '/us/shop/goto/airpods/accessories'}
+Similarity: 0.5371 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.5273 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Navigating to: https://www.apple.com/airpods/ with similarity score: 0.6312808990478516
+Page title: AirPods - Apple
+Analysing 247 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.8358 - Element: {'type': 'link', 'label': 'Buy, AirPods Max', 'href': '/us/shop/goto/buy_airpods/airpods_max'}
+Similarity: 0.8201 - Element: {'type': 'link', 'label': 'Buy, AirPods 4', 'href': '/us/shop/goto/buy_airpods/airpods_4'}
+Similarity: 0.8201 - Element: {'type': 'link', 'label': 'Buy, AirPods 4', 'href': '/us/shop/goto/buy_airpods/airpods_4/without_active_noise_cancellation'}
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Similarity: 0.7404 - Element: {'type': 'link', 'label': 'Pre-order, Airpods Pro 3', 'href': '/us/shop/goto/buy_airpods/airpods_pro_3'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': '/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': '/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6468 - Element: {'type': 'link', 'label': 'Buy, AirPods 4', 'href': '/us/shop/goto/buy_airpods/airpods_4'}
+Similarity: 0.6468 - Element: {'type': 'link', 'label': 'Buy, AirPods 4', 'href': '/us/shop/goto/buy_airpods/airpods_4/without_active_noise_cancellation'}
+Similarity: 0.6433 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Similarity: 0.6320 - Element: {'type': 'link', 'label': 'Buy, AirPods Max', 'href': '/us/shop/goto/buy_airpods/airpods_max'}
+Similarity: 0.5795 - Element: {'type': 'link', 'label': 'Pre-order, Airpods Pro 3', 'href': '/us/shop/goto/buy_airpods/airpods_pro_3'}
+Similarity: 0.5725 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Similarity: 0.5725 - Element: {'type': 'link', 'label': 'AirPods', 'href': '/airpods/'}
+Similarity: 0.5371 - Element: {'type': 'link', 'label': 'airpods', 'href': '/us/shop/goto/airpods/accessories'}
+Navigating to: https://www.apple.com/us/shop/goto/buy_airpods/airpods_4 with similarity score: 0.6467815637588501
+Page title: Buy AirPods 4 - Apple
+Analysing 236 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'AirPods Pro 3', 'href': '/shop/browse/home/shop_airpods/family/airpods_pro_3'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/shop/browse/home/shop_airpods/family/airpods_max'}
+Similarity: 0.7236 - Element: {'type': 'link', 'label': 'AirPods 4 $129.00', 'href': '/shop/buy-airpods/airpods-4/without-active-noise-cancellation'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7158 - Element: {'type': 'link', 'label': 'shop airpods', 'href': 'https://www.apple.com/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.7101 - Element: {'type': 'link', 'label': 'airpods 4', 'href': 'https://www.apple.com/airpods-4/'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6526 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.6312 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.6089 - Element: {'type': 'link', 'label': 'AirPods Pro 3', 'href': '/shop/browse/home/shop_airpods/family/airpods_pro_3'}
+Similarity: 0.5925 - Element: {'type': 'link', 'label': 'shop airpods', 'href': 'https://www.apple.com/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.5793 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Similarity: 0.5724 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.5724 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.5416 - Element: {'type': 'link', 'label': 'AirPods 4 $129.00', 'href': '/shop/buy-airpods/airpods-4/without-active-noise-cancellation'}
+Similarity: 0.5399 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/shop/browse/home/shop_airpods/family/airpods_max'}
+Navigating to: https://www.apple.com/airpods-pro/ with similarity score: 0.6526166200637817
+Page title: AirPods Pro 3 - Apple
+Analysing 263 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Similarity: 0.7299 - Element: {'type': 'link', 'label': 'Watch the film, AirPods Pro 3', 'href': '/105/media/us/airpods-pro/2025/7acffb13-4adb-40b1-9393-8f1c99bc6c90/films/product/airpods-pro-product-tpl-us-2025_16x9.m3u8'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': '/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': '/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.7158 - Element: {'type': 'link', 'label': 'shop airpods', 'href': '/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.7124 - Element: {'type': 'link', 'label': 'Pre-order AirPods Pro 3', 'href': '/us/shop/goto/buy_airpods/airpods_pro_3'}
+Similarity: 0.7101 - Element: {'type': 'link', 'label': 'airpods 4', 'href': '/airpods-4/'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6313 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.6301 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.5926 - Element: {'type': 'link', 'label': 'shop airpods', 'href': '/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.5793 - Element: {'type': 'link', 'label': 'Watch the film, AirPods Pro 3', 'href': '/105/media/us/airpods-pro/2025/7acffb13-4adb-40b1-9393-8f1c99bc6c90/films/product/airpods-pro-product-tpl-us-2025_16x9.m3u8'}
+Similarity: 0.5725 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Similarity: 0.5725 - Element: {'type': 'link', 'label': 'AirPods', 'href': '/airpods/'}
+Similarity: 0.5371 - Element: {'type': 'link', 'label': 'airpods', 'href': '/us/shop/goto/airpods/accessories'}
+Similarity: 0.5273 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Navigating to: https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore with similarity score: 0.6312808990478516
+Page title: AirPods Support - Official Apple Support
+Analysing 222 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/en-us/118262'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/en-us/119838'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7158 - Element: {'type': 'link', 'label': 'shop airpods', 'href': 'https://www.apple.com/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.7109 - Element: {'type': 'link', 'label': 'AirPods and AirPods Pro', 'href': '/en-us/119912'}
+Similarity: 0.7109 - Element: {'type': 'link', 'label': 'AirPods and AirPods Pro', 'href': '/en-us/118576'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6313 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.5878 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.5878 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.5793 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.5725 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/en-us/119838'}
+Similarity: 0.5399 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Similarity: 0.5399 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/en-us/118262'}
+Navigating to: https://www.apple.com/us/shop/goto/airpods/accessories with similarity score: 0.6312808990478516
+Page title: Buy AirPods Accessories - Apple
+Analysing 244 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.8273 - Element: {'type': 'link', 'label': 'Buy AirPods', 'href': 'https://www.apple.com/airpods'}
+Similarity: 0.7958 - Element: {'type': 'link', 'label': 'AirPods Pro 3 New', 'href': '/shop/buy-airpods/airpods-pro-3?fnode=751ad67c5252078f780c593eafcdab5e93db44c74e7eeb9e3d767c90042c84cfd50f8e52f884d47be416c8232022afaceda2254bd514afb683dcee9ab70ae564f3ed683f7d18484427c1ba4d1c2be0cad26e6256cc88f8d7d2a8d8b585fdbf21'}
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7158 - Element: {'type': 'link', 'label': 'shop airpods', 'href': 'https://www.apple.com/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.7101 - Element: {'type': 'link', 'label': 'airpods 4', 'href': 'https://www.apple.com/airpods-4/'}
+Similarity: 0.6676 - Element: {'type': 'link', 'label': 'AirPods Accessories', 'href': '/shop/airpods/accessories'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6436 - Element: {'type': 'link', 'label': 'Buy AirPods', 'href': 'https://www.apple.com/airpods'}
+Similarity: 0.6312 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Similarity: 0.6004 - Element: {'type': 'link', 'label': 'AirPods Pro 3 New', 'href': '/shop/buy-airpods/airpods-pro-3?fnode=751ad67c5252078f780c593eafcdab5e93db44c74e7eeb9e3d767c90042c84cfd50f8e52f884d47be416c8232022afaceda2254bd514afb683dcee9ab70ae564f3ed683f7d18484427c1ba4d1c2be0cad26e6256cc88f8d7d2a8d8b585fdbf21'}
+Similarity: 0.5925 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.5793 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.4653 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Navigating to: https://www.apple.com/airpods with similarity score: 0.6436232328414917
+Page title: AirPods - Apple
+Analysing 247 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.8358 - Element: {'type': 'link', 'label': 'Buy, AirPods Max', 'href': '/us/shop/goto/buy_airpods/airpods_max'}
+Similarity: 0.8201 - Element: {'type': 'link', 'label': 'Buy, AirPods 4', 'href': '/us/shop/goto/buy_airpods/airpods_4'}
+Similarity: 0.8201 - Element: {'type': 'link', 'label': 'Buy, AirPods 4', 'href': '/us/shop/goto/buy_airpods/airpods_4/without_active_noise_cancellation'}
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Similarity: 0.7404 - Element: {'type': 'link', 'label': 'Pre-order, Airpods Pro 3', 'href': '/us/shop/goto/buy_airpods/airpods_pro_3'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': '/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': '/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6468 - Element: {'type': 'link', 'label': 'Buy, AirPods 4', 'href': '/us/shop/goto/buy_airpods/airpods_4'}
+Similarity: 0.6433 - Element: {'type': 'link', 'label': 'Buy, AirPods 4', 'href': '/us/shop/goto/buy_airpods/airpods_4/without_active_noise_cancellation'}
+Similarity: 0.6320 - Element: {'type': 'link', 'label': 'Buy, AirPods Max', 'href': '/us/shop/goto/buy_airpods/airpods_max'}
+Similarity: 0.5798 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Similarity: 0.5731 - Element: {'type': 'link', 'label': 'Pre-order, Airpods Pro 3', 'href': '/us/shop/goto/buy_airpods/airpods_pro_3'}
+Similarity: 0.5371 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Navigating to: https://www.apple.com/us/shop/goto/buy_airpods/airpods_4 with similarity score: 0.6467815637588501
+Page title: Buy AirPods 4 - Apple
+Analysing 236 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'AirPods Pro 3', 'href': '/shop/browse/home/shop_airpods/family/airpods_pro_3'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/shop/browse/home/shop_airpods/family/airpods_max'}
+Similarity: 0.7236 - Element: {'type': 'link', 'label': 'AirPods 4 $129.00', 'href': '/shop/buy-airpods/airpods-4/without-active-noise-cancellation'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7158 - Element: {'type': 'link', 'label': 'shop airpods', 'href': 'https://www.apple.com/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.7101 - Element: {'type': 'link', 'label': 'airpods 4', 'href': 'https://www.apple.com/airpods-4/'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6313 - Element: {'type': 'link', 'label': 'AirPods 4 $129.00', 'href': '/shop/buy-airpods/airpods-4/without-active-noise-cancellation'}
+Similarity: 0.6089 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.5926 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.5793 - Element: {'type': 'link', 'label': 'AirPods Pro 3', 'href': '/shop/browse/home/shop_airpods/family/airpods_pro_3'}
+Similarity: 0.5416 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/shop/browse/home/shop_airpods/family/airpods_max'}
+Similarity: 0.5400 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Navigating to: https://www.apple.com/shop/buy-airpods/airpods-4/without-active-noise-cancellation with similarity score: 0.6312730312347412
+Page title: Buy AirPods 4 without Active Noise Cancellation - Apple
+Analysing 238 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'AirPods Pro 3', 'href': '/shop/browse/home/shop_airpods/family/airpods_pro_3'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/shop/browse/home/shop_airpods/family/airpods_max'}
+Similarity: 0.7236 - Element: {'type': 'link', 'label': 'AirPods 4 $129.00', 'href': '/shop/buy-airpods/airpods-4/without-active-noise-cancellation?product=MXP63LL/A&step=select'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7158 - Element: {'type': 'link', 'label': 'shop airpods', 'href': 'https://www.apple.com/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.7101 - Element: {'type': 'link', 'label': 'airpods 4', 'href': 'https://www.apple.com/airpods-4/'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6312 - Element: {'type': 'link', 'label': 'AirPods 4 $129.00', 'href': '/shop/buy-airpods/airpods-4/without-active-noise-cancellation?product=MXP63LL/A&step=select'}
+Similarity: 0.6089 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.5925 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.5795 - Element: {'type': 'link', 'label': 'AirPods Pro 3', 'href': '/shop/browse/home/shop_airpods/family/airpods_pro_3'}
+Similarity: 0.5416 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/shop/browse/home/shop_airpods/family/airpods_max'}
+Similarity: 0.5399 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Navigating to: https://www.apple.com/shop/buy-airpods/airpods-4/without-active-noise-cancellation?product=MXP63LL/A&step=select with similarity score: 0.6311925649642944
+Page title: Buy AirPods 4 without Active Noise Cancellation - Apple
+Analysing 238 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'AirPods Pro 3', 'href': '/shop/browse/home/shop_airpods/family/airpods_pro_3'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/shop/browse/home/shop_airpods/family/airpods_max'}
+Similarity: 0.7236 - Element: {'type': 'link', 'label': 'AirPods 4 $129.00', 'href': '/shop/buy-airpods/airpods-4/without-active-noise-cancellation?product=MXP63LL/A&step=select'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7158 - Element: {'type': 'link', 'label': 'shop airpods', 'href': 'https://www.apple.com/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.7101 - Element: {'type': 'link', 'label': 'airpods 4', 'href': 'https://www.apple.com/airpods-4/'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6313 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/shop/browse/home/shop_airpods/family/airpods_max'}
+Similarity: 0.6089 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.5926 - Element: {'type': 'link', 'label': 'AirPods 4 $129.00', 'href': '/shop/buy-airpods/airpods-4/without-active-noise-cancellation?product=MXP63LL/A&step=select'}
+Similarity: 0.5793 - Element: {'type': 'link', 'label': 'AirPods Pro 3', 'href': '/shop/browse/home/shop_airpods/family/airpods_pro_3'}
+Similarity: 0.5399 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Navigating to: https://www.apple.com/shop/browse/home/shop_airpods/family/airpods_max with similarity score: 0.6312808990478516
+Page title: Buy AirPods Max - Apple
+Analysing 239 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'AirPods Pro 3', 'href': '/shop/browse/home/shop_airpods/family/airpods_pro_3'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': 'https://www.apple.com/airpods-max'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/shop/browse/home/shop_airpods/family/airpods_max'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://www.apple.com/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7158 - Element: {'type': 'link', 'label': 'shop airpods', 'href': 'https://www.apple.com/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.7101 - Element: {'type': 'link', 'label': 'airpods 4', 'href': 'https://www.apple.com/airpods-4/'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6313 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': 'https://www.apple.com/airpods-max'}
+Similarity: 0.6089 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': 'https://www.apple.com/airpods-pro/'}
+Similarity: 0.5926 - Element: {'type': 'link', 'label': 'AirPods Max', 'href': '/shop/browse/home/shop_airpods/family/airpods_max'}
+Similarity: 0.5792 - Element: {'type': 'link', 'label': 'AirPods Pro 3', 'href': '/shop/browse/home/shop_airpods/family/airpods_pro_3'}
+Similarity: 0.5399 - Element: {'type': 'link', 'label': 'airpods max', 'href': 'https://www.apple.com/airpods-max/'}
+Navigating to: https://www.apple.com/airpods-max with similarity score: 0.6312584280967712
+Page title: AirPods Max - Apple
+Analysing 254 links...
+
+Top 10 navigation candidates based on local embeddings:
+Similarity: 0.8117 - Element: {'type': 'link', 'label': 'Buy AirPods Max', 'href': '/us/shop/goto/buy_airpods/airpods_max'}
+Similarity: 0.7718 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Similarity: 0.7404 - Element: {'type': 'link', 'label': 'Pre-order, AirPods Pro 3', 'href': '/us/shop/goto/buy_airpods/airpods_pro_3'}
+Similarity: 0.7250 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': '/us/shop/goto/airpods/accessories'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': '/airpods/'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.7228 - Element: {'type': 'link', 'label': 'AirPods', 'href': 'https://www.apple.com/airpods/'}
+Similarity: 0.7158 - Element: {'type': 'link', 'label': 'shop airpods', 'href': '/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1'}
+Similarity: 0.7101 - Element: {'type': 'link', 'label': 'airpods 4', 'href': '/airpods-4/'}
+
+After re-ranking with OpenAI embeddings:
+Similarity: 0.6313 - Element: {'type': 'link', 'label': 'AirPods', 'href': '/airpods/'}
+Similarity: 0.6194 - Element: {'type': 'link', 'label': 'airpods pro 3', 'href': '/airpods-pro/'}
+Similarity: 0.6127 - Element: {'type': 'link', 'label': 'Buy AirPods Max', 'href': '/us/shop/goto/buy_airpods/airpods_max'}
+Similarity: 0.5926 - Element: {'type': 'link', 'label': 'airpods', 'href': 'https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore'}
+Similarity: 0.5793 - Element: {'type': 'link', 'label': 'Pre-order, AirPods Pro 3', 'href': '/us/shop/goto/buy_airpods/airpods_pro_3'}
+Similarity: 0.5724 - Element: {'type': 'link', 'label': 'airpods max', 'href': '/airpods-max/'}
+Similarity: 0.5371 - Element: {'type': 'link', 'label': 'airpods', 'href': '/us/shop/goto/airpods/accessories'}
+Already visited this URL, stopping navigation.
+Navigation complete.
+Enter your navigation prompt (or 'exit' to quit): 
