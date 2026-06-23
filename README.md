@@ -1,3 +1,6 @@
 # Web Navigator
+ 
+> [!NOTE]
+> This project is no longer being actively developed.
 
-⚠️ Currently in Development: An AI agent that autonomously navigates webpages based on user prompt.
+A simple agent that autonomously navigates webpages based on user prompt.
